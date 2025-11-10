@@ -1,0 +1,4 @@
+gcc fork.c -o fork
+gcc random.c -o random
+echo 1 > /proc/sys/kernel/sched_child_runs_first
+cat /proc/sys/kernel/sched_child_runs_first --> za provjeru je li 0 ili 1
