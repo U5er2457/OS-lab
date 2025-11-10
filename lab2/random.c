@@ -1,5 +1,5 @@
 
-//Veličina datoteke: 7580B
+//Veličina exe datoteke: 7580B = 7.58kB
 
 #include <stdio.h>
 #include <stdlib.h>
